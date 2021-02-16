@@ -20,4 +20,4 @@ for (let i = 0; i < text.length; i++) {
   }
 }
 
-console.log(`there are ${e} 'e' in this borring text`)
+console.log(`there are ${e} 'e' in this boring text`)

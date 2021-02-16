@@ -22,4 +22,4 @@ for (let i = 0; i < text.length; i++) {
   }
 }
 
-console.log(`there are ${nbVowel} vowels in this text.`)
+console.log(`there are ${nbVowel} vowels in this boring text.`)

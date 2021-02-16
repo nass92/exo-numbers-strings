@@ -17,7 +17,7 @@ let nbVowel = 0
 
 for (let i = 0; i < text.length; i++) {
   let z = text[i].toLowerCase()
-  if (z === 'e' || z === 'a' || z === 'y' || z === 'u' || z === 'i' || z === 'o') {
+  if (z === 'e' || z === 'a' || z === 'y' || z === 'u' || z === 'i' || z === 'o' || z === 'é' || z === 'è' || z === 'à' || z === 'ê' || z === 'ù') {
     nbVowel++
   }
 }
